@@ -1,4 +1,4 @@
-CHICKEN REPUBLIC DASH APP
+USER STORY FOR NON TRCHNICAL AUDIENCE ABOUT REPUBLIC DASH APP
 
 WHAT THE PRODUCT DOES: It is a smart digital online food ordering and delivery app that allows chicken republic customers order food fast,fresh and in a convenient manner,from anywhere and at anytime. it connect her customers to nearby chicken republic restuarants, allowing them to place and track orders in real time as if they were visiting the store physically.
 
